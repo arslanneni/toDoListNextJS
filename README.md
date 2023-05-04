@@ -1,1 +1,3 @@
 # toDoListNextJS
+
+This is a simple Todo App built using the Next.js framework and React. The app allows users to add new tasks to a list, delete tasks, and view their current tasks. It has a clean and simple user interface, with a text input field for adding new tasks and a button to submit them. The tasks are displayed as a list, with each task having a delete button next to it. The app uses the Bootstrap CSS framework for styling and the Inter font from Google Fonts. The state of the app is managed using React hooks, specifically useState(). Overall, this is a straightforward and easy-to-use app for managing a to-do list.
